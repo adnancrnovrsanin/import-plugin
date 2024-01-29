@@ -3,7 +3,6 @@
  * Class for the Redux importer used in the One Click Demo Import plugin.
  *
  * @see https://wordpress.org/plugins/redux-framework/
- * @package ocdi
  */
 
 namespace OCDI;

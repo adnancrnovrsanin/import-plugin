@@ -1,8 +1,6 @@
 <?php
 /**
  * Create Demo Content - responsible for importing pre-created demo content.
- *
- * @package ocdi
  */
 
 namespace OCDI\CreateDemoContent;

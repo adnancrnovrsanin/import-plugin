@@ -1,8 +1,6 @@
 <?php
 /**
  * Plugin Installer class - responsible for installing other plugins.
- *
- * @package ocdi
  */
 
 namespace OCDI;

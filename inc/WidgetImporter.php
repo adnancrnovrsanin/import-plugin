@@ -5,7 +5,6 @@
  * Code is mostly from the Widget Importer & Exporter plugin.
  *
  * @see https://wordpress.org/plugins/widget-importer-exporter/
- * @package ocdi
  */
 
 namespace OCDI;

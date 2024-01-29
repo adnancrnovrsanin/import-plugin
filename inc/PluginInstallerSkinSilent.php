@@ -1,8 +1,6 @@
 <?php
 /**
  * Plugin Installer Skin class - responsible for not displying any info while installing plugins.
- *
- * @package ocdi
  */
 
 namespace OCDI;

@@ -2,8 +2,6 @@
 /**
  * Class for the import actions used in the One Click Demo Import plugin.
  * Register default WP actions for OCDI plugin.
- *
- * @package ocdi
  */
 
 namespace OCDI;

@@ -3,11 +3,9 @@
 /*
 Plugin Name: One Click Demo Import
 Description: Import your content, widgets and theme settings with one click. Theme authors! Enable simple demo import for your theme demo data.
-Version: 1.0.0
+Version: 3.2.0
 Requires PHP: 5.6
 Author: Adnan Crnovrsanin
-License: GPL3
-License URI: http://www.gnu.org/licenses/gpl.html
 Text Domain: one-click-demo-import
 Domain Path: /languages
 */

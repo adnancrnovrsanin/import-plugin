@@ -1,8 +1,6 @@
 <?php
 /**
  * The class for WP-CLI commands for One Click Demo Import plugin.
- *
- * @package ocdi
  */
 
 namespace OCDI;

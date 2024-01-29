@@ -1,8 +1,6 @@
 <?php
 /**
  * Static functions used in the OCDI plugin.
- *
- * @package ocdi
  */
 
 namespace OCDI;

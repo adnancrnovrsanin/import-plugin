@@ -1,8 +1,6 @@
 <?php
 /**
  * Main One Click Demo Import plugin class/file.
- *
- * @package ocdi
  */
 
 namespace OCDI;

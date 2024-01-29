@@ -1,8 +1,6 @@
 <?php
 /**
  * Logger class used in the One Click Demo Import plugin
- *
- * @package ocdi
  */
 
 namespace OCDI;

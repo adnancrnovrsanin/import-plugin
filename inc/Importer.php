@@ -1,8 +1,6 @@
 <?php
 /**
  * Class for declaring the content importer used in the One Click Demo Import plugin
- *
- * @package ocdi
  */
 
 namespace OCDI;

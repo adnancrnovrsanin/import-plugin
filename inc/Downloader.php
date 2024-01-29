@@ -1,8 +1,6 @@
 <?php
 /**
  * Class for downloading a file from a given URL.
- *
- * @package ocdi
  */
 
 namespace OCDI;
